@@ -26,4 +26,4 @@ const createNewString = (string, minLength, pad) => {
   return string;
 };
 
-createNewString('qwerty', 4, '0');
+createNewString('qwerty', 5, '0');
